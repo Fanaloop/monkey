@@ -1,3 +1,5 @@
 a new file in new_project
 
 added a new line!
+
+a new line added
